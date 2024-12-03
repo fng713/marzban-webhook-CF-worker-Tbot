@@ -13,6 +13,7 @@
 
 ###
 
+
 # Telegram Webhook Listener
 
 This is a serverless JavaScript-based webhook listener designed to process notifications from [Marzban's Webhook System](https://gozargah.github.io/marzban/en/docs/webhook). It formats the incoming data and sends it as a message to a Telegram chat using the Telegram Bot API.
@@ -66,7 +67,38 @@ Incoming JSON payload from Marzban:
     "note": "Welcome package"
   }
 }
-
 ```
 
+Formatted Telegram message:
 
+```
+Action: user_created
+Username: example_user
+Admin: admin_user
+Status: active
+Data Limit: 5 GB
+Expiry: 30 days
+Note: Welcome package
+```
+
+## Deployment
+
+1. Deploy the script to a serverless platform (e.g., [Cloudflare Workers](https://workers.cloudflare.com/), [AWS Lambda](https://aws.amazon.com/lambda/)).
+2. Configure Marzban to send webhook notifications to your deployed URL.
+3. Test the integration by triggering user events in Marzban.
+
+## References
+
+- [Marzban Webhook Documentation](https://gozargah.github.io/marzban/en/docs/webhook)
+- [Telegram Bot API](https://core.telegram.org/bots/api)
+
+
+###
+
+<h1 align="left">Donation</h1>
+
+###
+
+<p align="left">https://nowpayments.io/donation/FNG</p>
+
+###
