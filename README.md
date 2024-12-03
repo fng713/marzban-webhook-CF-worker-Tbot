@@ -1,6 +1,4 @@
 
-###
-
 <p align="center">
  <a href="./README.md">
  English
@@ -10,9 +8,6 @@
  فارسی
  </a>
 </p>
-
-###
-
 
 # Telegram Webhook Listener
 
@@ -30,7 +25,6 @@ This is a serverless JavaScript-based webhook listener designed to process notif
 1. **Telegram Bot Token**: Obtain this by creating a bot with [BotFather](https://core.telegram.org/bots#botfather).
 2. **Admin Chat ID**: Identify the chat where notifications will be sent.
 3. **Webhook Secret Key**: Configure this to secure incoming webhook requests.
-4. **Marzban**: A proxy management system with webhook capabilities enabled.
 
 ## Supported Marzban Webhook Data
 
@@ -92,13 +86,5 @@ Note: Welcome package
 - [Marzban Webhook Documentation](https://gozargah.github.io/marzban/en/docs/webhook)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 
-
-###
-
 <h1 align="left">Donation</h1>
-
-###
-
 <p align="left">https://nowpayments.io/donation/FNG</p>
-
-###
