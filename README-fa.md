@@ -1,4 +1,3 @@
-###
 
 <p align="center">
  <a href="./README.md">
@@ -9,9 +8,6 @@
  فارسی
  </a>
 </p>
-
-
-###
 
 # لیسنر وبهوک تلگرام
 
@@ -29,7 +25,6 @@
 1. **توکن ربات تلگرام**: این توکن را با ساخت یک ربات از طریق [BotFather](https://core.telegram.org/bots#botfather) دریافت کنید.
 2. **شناسه چت ادمین**: چتی که اعلان‌ها به آن ارسال می‌شود را مشخص کنید.
 3. **کلید مخفی وبهوک**: برای تایید و امنیت درخواست‌ها از این کلید استفاده کنید.
-4. **مرزبان**: سیستمی برای مدیریت پروکسی که قابلیت وبهوک را فعال کرده باشد.
 
 ## داده‌های پشتیبانی‌شده وبهوک مرزبان
 
@@ -89,11 +84,5 @@
 - [مستندات وبهوک مرزبان](https://gozargah.github.io/marzban/en/docs/webhook)
 - [مستندات API تلگرام](https://core.telegram.org/bots/api)
 
-- 
-<h1 align="right">حمایت از ما</h1>
-
-###
-
-<p align="right">https://nowpayments.io/donation/FNG</p>
-
-###
+<h1 align="left">حمایت از من</h1>
+<p align="left">https://nowpayments.io/donation/FNG</p>
